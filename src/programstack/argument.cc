@@ -61,6 +61,7 @@ bool Argument::Load(int argc, char** argv){
     if ( argc > 2 ) output = argv[2];
     _output_dir = output;
     std::cout << "Output directory set to: \"" << _output_dir << "\"\n";
+    return true;
 }
 
 }  // namespace prgstk

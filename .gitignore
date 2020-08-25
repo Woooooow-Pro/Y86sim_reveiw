@@ -48,8 +48,7 @@ CTestTestfile.cmake
 _deps
 
 #other
-.pdf
-.yo
-.ys
-.txt
-.vscode/settings.json
+*.pdf
+
+*.ys
+*.txt      
