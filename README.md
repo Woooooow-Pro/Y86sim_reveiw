@@ -41,6 +41,6 @@ Just add the path of the test after the excutable file(./test)
 
 ## Contributors
 
-- [Guanduo Chen](https://github.com/broodunivermonster) - Fudan University
+- [Guanduo Chen](https://github.com/Woooooow-Pro/Y86sim_reveiw) - Fudan University
 
 ##### *PS:Once upon a time, I wanted to write the Y86-Simulator by myself. Till i saw [Hakula's Simulator](https://github.com/hakula139/Y86-64-Simulator). His work is sooo pretty, like any other projects write by a Tech Company. In that case, I decide to study his code and rewrite it.*
